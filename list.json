@@ -1,0 +1,62 @@
+[
+  {
+      "id": 1,
+      "Book": "Jar City (Mýrin)",
+      "Author": "Niki Doumenc",
+      "Page_Count": 294
+  },
+  {
+      "id": 2,
+      "Book": "Skeleton Man",
+      "Author": "Lelah Kolodziejski",
+      "Page_Count": 343
+  },
+  {
+      "id": 3,
+      "Book": "Electra, My Love (Szerelmem, Elektra)",
+      "Author": "Rakel Kemshell",
+      "Page_Count": 359
+  },
+  {
+      "id": 4,
+      "Book": "Playmobil: The Secret of Pirate Island",
+      "Author": "Haydon Marran",
+      "Page_Count": 389
+  },
+  {
+      "id": 5,
+      "Book": "Delirious",
+      "Author": "Samantha Roper",
+      "Page_Count": 480
+  },
+  {
+      "id": 6,
+      "Book": "Move Over, Darling",
+      "Author": "Lou Fowls",
+      "Page_Count": 348
+  },
+  {
+      "id": 7,
+      "Book": "Vertical Limit",
+      "Author": "Eleanora Gimlet",
+      "Page_Count": 118
+  },
+  {
+      "id": 8,
+      "Book": "Short Game, The",
+      "Author": "Nickie Brekonridge",
+      "Page_Count": 130
+  },
+  {
+      "id": 9,
+      "Book": "Waiting...",
+      "Author": "Sofie Hynam",
+      "Page_Count": 362
+  },
+  {
+      "id": 10,
+      "Book": "Broken",
+      "Author": "Fayette Hake",
+      "Page_Count": 414
+  }
+]

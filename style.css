@@ -1,0 +1,17 @@
+body {
+  background-color: #9892d3;
+}
+
+h1 {
+  color: rgb(2, 0, 0);
+}
+.bk-card {
+  box-shadow: 2px 2px 3px rgb(255, 254, 254);
+  background:
+}
+
+#books {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 25px;
+}
